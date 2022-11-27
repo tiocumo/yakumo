@@ -49,3 +49,4 @@ index.jsに```alert({{a.js}})```と書きます。
 alert("hello")
 ```
 となります。
+  

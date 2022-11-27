@@ -1,1 +1,6 @@
-!/yakumo.py
+.config/
+.git/
+venv/
+.replit
+replit.nix
+.upm
