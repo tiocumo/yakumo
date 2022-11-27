@@ -1,0 +1,13 @@
+{
+  "root":"./src/",
+  "files":[
+    "a.js",
+    "b.js",
+    "main.js"
+  ],
+  "main":"main.js",
+  "split":{
+    "start":"{{/",
+    "end":"/}}"
+  }
+}
